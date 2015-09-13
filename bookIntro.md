@@ -22,7 +22,7 @@
 
 鼓励一题多解，以及简单算法的复杂应用～
 
-我们的[Github Repo](https://github.com/imcaffrey/OITraining)
+这是我们的[Github Repo](https://github.com/imcaffrey/OITraining)
 
 如果你正在阅读一个离线版本，可以到[Gitbook](http://oitraining.scaffrey.com)上找到最新版
 
