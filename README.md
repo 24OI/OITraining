@@ -8,9 +8,9 @@ OITraining--OI训练指南
 
 gl & hf;
 
-[GitBook](http://oitraining.scaffrey.com)
+[GitBook版本](http://oitraining.scaffrey.com)
 
-[GitCafe](http://oit.scaffrey.com)
+[国内服务器上的GitCafe版本](http://oit.scaffrey.com)
 
 目前只提供中文版
 
