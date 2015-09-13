@@ -161,5 +161,9 @@
 	* [最小表示法](chapter7/最小表示法.md)
 	* [密码学](chapter7/密码学.md)
 * [第八章·数据结构](chapter8/chapter8.md)
+	* [STL](chapter8/STL.md)
+	* [pb_ds](chapter8/pb_ds.md)
+	* [基础数据结构](chapter8/基础数据结构.md)
+
 * [第九章·计算几何](chapter9/chapter9.md)
 
