@@ -14,3 +14,11 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# markdown
+
+*.md~
+*.html
+
+# math
+*.json~
