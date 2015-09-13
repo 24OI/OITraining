@@ -1,0 +1,6 @@
+{
+    "structure": {
+        "readme": "bookIntro.md"
+    },
+    "plugins": ["katex"]
+}
