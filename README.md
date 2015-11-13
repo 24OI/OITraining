@@ -1,4 +1,4 @@
-OITraining--OI训练指南 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/24OI/oitraining/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+OITraining--OI训练指南 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/24OI/OITraining) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/24OI/oitraining/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 --------
 
