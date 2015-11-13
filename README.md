@@ -1,8 +1,8 @@
-OITraining--OI训练指南
+OITraining--OI训练指南 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/24OI/oitraining/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 --------
 
-这是目前由24OI成员维护的文档，由SCaffrey发起，Rommel参与校对
+这是目前由24OI成员维护的文档，由SCaffrey发起
 
 欢迎加入维护
 
