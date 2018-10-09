@@ -1,3 +1,9 @@
+# Moved to OI Wiki
+
+Please visit https://github.com/24OI/OI-wiki !
+
+---
+
 OITraining--OI训练指南 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/24OI/oitraining/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 --------
